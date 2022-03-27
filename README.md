@@ -1,16 +1,20 @@
 # flutter_web_aula
 
-A new Flutter project.
+Projeto.
 
-## Getting Started
+👋 Olá, seja bem vindo.
 
-This project is a starting point for a Flutter application.
+💻 Projeto do curso Flutter 2.0: Crie aplicações responsivas para a Web do professor Jamilton Damasceno na plataforma Udemy.
 
-A few resources to get you started if this is your first Flutter project:
+## Escopo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📚 Neste projeto, eu estou desenvolvendo a interface de uma loja virtual, tanto para Mobile e Web, utilizando Dart & Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Foco
+
+😊 O curso é focado no desenvolvimento de aplicações Web com o Flutter, mas todas as aplicações criadas também irão funcionar para Android e IOS.
+
+## Prazo
+
+⚡ Este projeto ainda está em andamento, sendo assim, não tenho uma previssão para finalizar. No entanto, em breve espero trazer muitas novidades para este repositório!!!
+
