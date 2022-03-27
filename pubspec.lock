@@ -9,7 +9,7 @@ packages:
     source: hosted
     version: "2.8.2"
   auto_size_text_pk:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: auto_size_text_pk
       url: "https://pub.dartlang.org"
