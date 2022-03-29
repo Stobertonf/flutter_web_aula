@@ -16,8 +16,8 @@ void main() {
       // home: ResponsividadeWrap(),
       // home: Orientacao(),
       //home: RegrasLayout(),
-      //home: LojarVirtual(),
-      home: TamanhoTextos(),
+      home: LojarVirtual(),
+      //home: TamanhoTextos(),
     ),
   );
 }
