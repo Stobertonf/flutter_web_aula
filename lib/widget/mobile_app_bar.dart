@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class MboileAppBar extends StatelessWidget {
-  const MboileAppBar({Key? key}) : super(key: key);
+class MobileAppBar extends StatelessWidget {
+  const MobileAppBar({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -33,7 +33,7 @@ class _LojarVirtualState extends State<LojarVirtual> {
         return Scaffold(
           appBar: largura < 600
               ? PreferredSize(
-                  child: MboileAppBar(),
+                  child: MobileAppBar(),
                   preferredSize: Size(largura, alturaBarra),
                 )
               : PreferredSize(
