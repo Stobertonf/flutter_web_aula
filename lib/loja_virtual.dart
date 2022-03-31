@@ -3,14 +3,14 @@ import 'package:flutter_web_aula/widget/item_produto.dart';
 import 'package:flutter_web_aula/widget/mobile_app_bar.dart';
 import 'package:flutter_web_aula/widget/web_app_bar.dart';
 
-class LojarVirtual extends StatefulWidget {
-  const LojarVirtual({Key? key}) : super(key: key);
+class LojaVirtual extends StatefulWidget {
+  const LojaVirtual({Key? key}) : super(key: key);
 
   @override
-  State<LojarVirtual> createState() => _LojarVirtualState();
+  State<LojaVirtual> createState() => _LojaVirtualState();
 }
 
-class _LojarVirtualState extends State<LojarVirtual> {
+class _LojaVirtualState extends State<LojaVirtual> {
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(
