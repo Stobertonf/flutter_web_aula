@@ -6,7 +6,7 @@
 
 ## Escopo
 
-📚 Neste projeto, eu estou desenvolvendo a interface de uma loja virtual, tanto para Mobile e Web, utilizando Dart & Flutter.
+📚 Neste projeto, eu eu desenvolvi a interface de uma loja virtual.
 
 ## Foco
 
@@ -14,5 +14,5 @@
 
 ## Prazo
 
-⚡ Este projeto ainda está em andamento, sendo assim, não tenho uma previssão para finalizar. No entanto, em breve espero trazer muitas novidades para este repositório!!!
+⚡ Este projeto foi finalziado no dia 31/03//2022 !!!
 
