@@ -6,7 +6,7 @@
 
 ## Escopo
 
-📚 Neste projeto, eu eu desenvolvi a interface de uma loja virtual.
+📚 Neste projeto, eu desenvolvi a interface de uma loja virtual.
 
 ## Foco
 
