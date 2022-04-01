@@ -14,5 +14,5 @@
 
 ## Prazo
 
-⚡ Este projeto ainda está em andamento, sendo assim, não tenho uma previssão para finalizar. No entanto, em breve espero trazer muitas novidades para este repositório!!!
+⚡  Este projeto foi finalizado no dia 31/03//2022 !!!
 
