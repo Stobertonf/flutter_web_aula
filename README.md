@@ -18,5 +18,5 @@
 
 ## Prazo
 
-⚡ Este projeto foi finalizado no dia 31/03//2022 !!!
+⚡ Este projeto foi finalizado no dia 31/03/2022 !!!
 
