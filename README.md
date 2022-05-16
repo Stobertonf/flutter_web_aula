@@ -20,3 +20,11 @@
 
 ⚡ Este projeto foi finalizado no dia 31/03/2022 !!!
 
+## Imagens
+
+:camera: Imagens do projeto.
+
+<p float="left" align="center">
+  <img src=https://i.ibb.co/WvJ8y68/Loja.jpg width="40%" />
+  <img src=https://i.ibb.co/RTVKHWS/Loja-1.jpg width="40%" /> 
+</p>
